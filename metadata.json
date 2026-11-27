@@ -1,0 +1,6 @@
+{
+  "name": "AI Skill Passport",
+  "description": "Practical skills verification and digital credential passport for PLP Africa and ILO PROSPECTS Track 1 — Credential Recognition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
